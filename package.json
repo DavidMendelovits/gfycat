@@ -1,0 +1,20 @@
+{
+  "name": "gfycat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMendelovits/gfycat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidMendelovits/gfycat/issues"
+  },
+  "homepage": "https://github.com/DavidMendelovits/gfycat#readme"
+}
